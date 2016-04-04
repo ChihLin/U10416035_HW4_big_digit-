@@ -21,7 +21,7 @@ public class TestDecimal {
 			//new an object and print the result
 			Decimal decimal = new Decimal(x,y);
 			decimal.Plus();
-			decimal.Judge();
+			
 		
 	
 	}
